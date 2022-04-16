@@ -1,3 +1,3 @@
-# https://zucada.github.io/responsive-project/
+# Website Responsive Project 
 A website with responsive design
-Mobile first
+Link: https://zucada.github.io/responsive-project/
